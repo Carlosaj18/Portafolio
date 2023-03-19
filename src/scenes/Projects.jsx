@@ -94,7 +94,6 @@ const Projects = () => {
             title="Chat AI App"
             description="React Fullstack, Chat App. The frontend will consist of ChatEngine, Redux Toolkit for our state management, Redux Toolkit Query for making api calls, Hero icons and React Router for Navigation. For the backend we will be using Node Js as our runtime, Express Js as our backend framework, and OpenAI for Ai integration with our chat."
             link="https://github.com/Carlosaj18/Fullstack-React-Chat-AI-App/"
-  
           />
           <Project
             title="Ecommerce App"
