@@ -126,7 +126,7 @@ const Projects = () => {
           />
           <Project
             title="Project 6"
-            description="Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla porttitor accumsan tincidunt."
+            description=""
           />
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
