@@ -59,7 +59,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            "Carlos was able to grasp the project's requirements quickly and delivered a product that exceeded our expectations."
+            Carlos was able to grasp the project's requirements quickly and delivered a product that exceeded our expectations.
           </p>
         </motion.div>
 
