@@ -56,7 +56,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Lawyer and Frontend Web Developer, with 3+ experience. My work
+            Lawyer and Frontend Web Developer, with 3+ years of experience. My work
             background has been focused on planning and executing Full Stack
             projects, using bottom-up methodology for the design, development,
             testing and deployment of each of the software layers; UX/UI design;
